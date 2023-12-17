@@ -14,7 +14,7 @@ The code has been tested in the following environment:
 Create Mamba environment
 ```bash
 mamba env create -f environment.yaml
-conda activate targetdiff  # note: one still needs to use `conda` to (de)activate environments
+conda activate latenttargetdiff  # note: one still needs to use `conda` to (de)activate environments
 ```
 -----
 
