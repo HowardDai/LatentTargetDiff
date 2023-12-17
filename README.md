@@ -2,7 +2,9 @@
 
 
 This repository is the implementation of Latent TargetDiff, for my CPSC 483 final project. This repository is based off of the following two repositories:
+
 https://github.com/guanjq/targetdiff 
+
 https://github.com/MinkaiXu/GeoLDM
 
 ## Installation
