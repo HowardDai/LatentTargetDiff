@@ -3,11 +3,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/guanjq/targetdiff/blob/main/LICIENCE)
 
 
-This repository is the official implementation of 3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction (ICLR 2023). [[PDF]](https://openreview.net/pdf?id=kJqXEPXMsE0) 
-
-<p align="center">
-  <img src="assets/overview.png" /> 
-</p>
+This repository is the implementation of Latent TargetDiff, for my CPSC 483 final project. This repository is based off of the following two repositories:
+https://github.com/guanjq/targetdiff 
+https://github.com/MinkaiXu/GeoLDM
 
 ## Installation
 
@@ -20,11 +18,11 @@ Create Mamba environment
 mamba env create -f environment.yaml
 conda activate targetdiff  # note: one still needs to use `conda` to (de)activate environments
 ```
-
 -----
+
 # Target-Aware Molecule Generation
 ## Data
-The data used for training / evaluating the model are organized in the [data](https://drive.google.com/drive/folders/1j21cc7-97TedKh_El5E34yI8o5ckI7eK?usp=share_link) Google Drive folder.
+The data used for training / evaluating the model are organized in the [data](https://drive.google.com/drive/folders/1j21cc7-97TedKh_El5E34yI8o5ckI7eK?usp=share_link) Google Drive folder. Additional files to download are located here: [data](https://drive.google.com/drive/folders/1lQLC9Nztl6-x-z1zRpBNVNWTA8-UtGYK?usp=sharing). 
 
 To train the model from scratch, you need to download the preprocessed lmdb file and split file:
 * `crossdocked_v1.1_rmsd1.0_pocket10_processed_final.lmdb`
