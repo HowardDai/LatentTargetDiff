@@ -1,7 +1,5 @@
 # Latent Target Diffusion
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/guanjq/targetdiff/blob/main/LICIENCE)
-
 
 This repository is the implementation of Latent TargetDiff, for my CPSC 483 final project. This repository is based off of the following two repositories:
 https://github.com/guanjq/targetdiff 
