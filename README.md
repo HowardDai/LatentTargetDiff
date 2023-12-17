@@ -7,6 +7,8 @@ https://github.com/guanjq/targetdiff
 
 https://github.com/MinkaiXu/GeoLDM
 
+**Script for reproducing main results: [summary.ipynb](summary.ipynb)**
+
 ## Installation
 
 ### Dependency
@@ -52,7 +54,6 @@ The docking mode can be chosen from {qvina, vina_score, vina_dock, none}
 Note: It will take some time to prepare pqdqt and pqr files when you run the evaluation code with vina_score/vina_dock docking mode for the first time.
 
 
-**One can reproduce the results reported in the paper quickly with [summary.ipynb](summary.ipynb)**
 
 
 ```
