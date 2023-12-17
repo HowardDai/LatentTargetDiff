@@ -1,4 +1,4 @@
-name: targetdiff2
+name: latenttargetdiff
 channels:
   - pyg
   - pytorch
