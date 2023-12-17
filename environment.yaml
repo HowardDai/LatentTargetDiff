@@ -249,3 +249,4 @@ dependencies:
       - pdb2pqr==3.6.1
       - propka==3.5.0
       - vina==1.2.2
+      - numpy==1.26
