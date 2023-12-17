@@ -22,7 +22,7 @@ conda activate latenttargetdiff  # note: one still needs to use `conda` to (de)a
 
 # Target-Aware Molecule Generation
 ## Data
-The data used for training / evaluating the model are organized in the [data](https://drive.google.com/drive/folders/1j21cc7-97TedKh_El5E34yI8o5ckI7eK?usp=share_link) Google Drive folder. Additional files to download are located here: [data](https://drive.google.com/drive/folders/1lQLC9Nztl6-x-z1zRpBNVNWTA8-UtGYK?usp=sharing). 
+The data used for training / evaluating the model are organized in the [data](https://drive.google.com/drive/folders/1j21cc7-97TedKh_El5E34yI8o5ckI7eK?usp=share_link) Google Drive folder. Additional files to download are located here: [extra](https://drive.google.com/drive/folders/1lQLC9Nztl6-x-z1zRpBNVNWTA8-UtGYK?usp=sharing). 
 
 To train the model from scratch, you need to download the preprocessed lmdb file and split file:
 * `crossdocked_v1.1_rmsd1.0_pocket10_processed_final.lmdb`
