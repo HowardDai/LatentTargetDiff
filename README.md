@@ -52,7 +52,7 @@ The docking mode can be chosen from {qvina, vina_score, vina_dock, none}
 Note: It will take some time to prepare pqdqt and pqr files when you run the evaluation code with vina_score/vina_dock docking mode for the first time.
 
 
-**One can reproduce the results reported in the paper quickly with [notebooks/summary.ipynb](notebooks/summary.ipynb)**
+**One can reproduce the results reported in the paper quickly with [summary.ipynb](summary.ipynb)**
 
 
 ```
