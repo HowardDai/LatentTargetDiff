@@ -12,6 +12,9 @@ https://github.com/MinkaiXu/GeoLDM
 
 To run the notebook, download all baselines from the folder linked below (in "sampling_results").
 
+### Links for GeoLDM autoencoder and baseline samples:
+Files to download are located [here](https://drive.google.com/drive/folders/1lQLC9Nztl6-x-z1zRpBNVNWTA8-UtGYK?usp=sharing).
+
 ## Installation
 
 ### Dependency
@@ -24,9 +27,6 @@ mamba env create -f environment.yaml
 conda activate latenttargetdiff  # note: one still needs to use `conda` to (de)activate environments
 ```
 -----
-
-### Links for GeoLDM autoencoder and baseline samples:
-Files to download are located [here](https://drive.google.com/drive/folders/1lQLC9Nztl6-x-z1zRpBNVNWTA8-UtGYK?usp=sharing).
 
 # Target-Aware Molecule Generation
 ## Data
