@@ -7,7 +7,7 @@ https://github.com/guanjq/targetdiff
 
 https://github.com/MinkaiXu/GeoLDM
 
-### Script for Producing Main Results:
+## Script for Producing Main Results:
 **[summary.ipynb](summary.ipynb)**
 
 ## Installation
