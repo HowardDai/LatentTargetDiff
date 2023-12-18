@@ -10,6 +10,8 @@ https://github.com/MinkaiXu/GeoLDM
 ## Script for Producing Main Results:
 **[summary.ipynb](summary.ipynb)**
 
+To run the notebook, download all baselines from the folder linked below (in "sampling_results").
+
 ## Installation
 
 ### Dependency
