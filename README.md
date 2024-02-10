@@ -1,7 +1,9 @@
 # Latent Target Diffusion
 
 
-This repository is the implementation of Latent TargetDiff, for my CPSC 483 final project. This repository is based off of the following two repositories:
+This repository is the implementation of Latent TargetDiff, for my CPSC 483 final project. The corresponding paper can be found [here](https://drive.google.com/file/d/1P9IocrFOaITxkJaY4Xg5F1EzRMhZmK1m/view?usp=sharing).
+
+This repository is based off of the following two repositories:
 
 https://github.com/guanjq/targetdiff 
 
